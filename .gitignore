@@ -1,0 +1,7 @@
+Backup
+*.*.toe
+node_modules
+server/media/dump/*
+!server/media/dump/README.md
+package-lock.json
+secrets.js

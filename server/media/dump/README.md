@@ -1,0 +1,1 @@
+Example folder of where to store images locally (referenced in ~/utils.js/downloadImage)
